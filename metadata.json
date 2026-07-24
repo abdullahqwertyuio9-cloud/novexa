@@ -1,0 +1,6 @@
+{
+  "name": "NOVEXA Digital Agency",
+  "description": "Official website for NOVEXA Digital Agency - Premium Digital, AI, Web Development & UI/UX Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
